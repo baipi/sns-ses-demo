@@ -3,7 +3,7 @@ sns-ses-demo
 ​
 This repo is an example of a Lambda function trigerred by SNS to send an email through SES.
 
-​This repo accompanies our three posts about how the Precogs team moved infrastructure and code from Ruby on Rails to a serverless environment. Follow these links to read part [one](https://medium.com/precogs-tech/dirty-old-code-part-1-e1135ac94acd), [two](https://medium.com/precogs-tech/dirty-old-code-part-2-e223590bff52) and [three]().
+​This repo accompanies our three posts about how the Precogs team moved infrastructure and code from Ruby on Rails to a serverless environment. Follow these links to read part [one](https://medium.com/precogs-tech/dirty-old-code-part-1-e1135ac94acd), [two](https://medium.com/precogs-tech/dirty-old-code-part-2-e223590bff52) and [three](https://medium.com/precogs-tech/dirty-old-code-part-3-b9f3e7ed6f9b).
 
 ### Technical architecture
 ![Architecture diagram](https://raw.githubusercontent.com/baipi/sns-ses-demo/master/readmeFiles/architecture.png)
