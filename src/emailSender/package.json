@@ -1,0 +1,23 @@
+{
+  "name": "email-sender",
+  "version": "1.0.0",
+  "description": "Get a message from an SNS notification and send an email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/eslint/bin/eslint.js *.js"
+  },
+  "author": "pierre.bails@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.526.0"
+  }
+}
